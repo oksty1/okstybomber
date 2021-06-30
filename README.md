@@ -1,1 +1,1 @@
-# okstybomber
+# smsbomb
